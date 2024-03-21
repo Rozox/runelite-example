@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Helmetcheck
+Plugin that checks if you're wearing head protection.
